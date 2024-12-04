@@ -1,0 +1,36 @@
+#p1{
+
+    border:2px solid;
+    height:75px;
+    overflow:visible;
+}
+
+#p2{
+
+    border:2px solid red;
+    height:50px;
+    overflow:hidden;
+}
+
+#p3{
+
+    border:2px dotted yellow;
+    height:50px ;
+    overflow:scroll;
+}
+
+#p4{
+
+    border:3px dashed green;
+    font-size: medium;
+    height:40px;
+    overflow:auto;
+}
+
+#p5{
+
+    border: 2px solid blue;
+    height: 50px;
+    overflow: clip;
+    overflow-clip-margin: 20px;
+}

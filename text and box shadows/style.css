@@ -1,0 +1,13 @@
+h1{
+    text-shadow: 10px 10px 4px red, -10px -10px 4px blue;
+}
+
+#box1{
+
+    width: 100px;
+    height: 50px;
+    background-color: yellow;
+
+    box-shadow: 15px 15px 2px green,-15px -15px 2px peru;
+
+}

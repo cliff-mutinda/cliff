@@ -1,0 +1,18 @@
+@font-face{
+    src:url(/fonts/Jaro-Regular-VariableFont_opsz.ttf);
+    font-family:Jaro
+
+
+}
+
+h1{
+
+
+    font-family:verdana,arial;
+    
+}
+
+p{
+    font-family:"Jaro" ,"lucida console", "courier new";
+    font-size:1em;
+}
