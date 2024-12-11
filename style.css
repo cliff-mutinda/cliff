@@ -3,36 +3,53 @@ body{
 }
 
 header{
+    height: 100px;
+    display: inline;
+}
+
+header .logo{
+    height: auto;
+    width: 100px;
+    background-color: red;
+    display: inline;
+    float:left;
+    margin-top: yellow solid 4px;
+    
+}
+header .welcome {
     color:black;
     text-align: center;
+    
+    
+}
+
+.headercontent{
+    display:inline-block;
+
 }
 
 nav{
     height: 30px;
     background-color: #032f30;
     text-align: center;
-}
-
-nav .navcon{
-    color:white;
-    padding-right: 100px;
-    
-    
-    
-}
-
-nav li{
-    list-style: none;
-    float:left;
-    width:fit-content;
-
+   
 }
 
 nav ul{
-    overflow: hidden;
+    margin:0px;
+
+}
+
+
+nav li{
+    display:inline;
+    
+
 }
 
 nav a{
+    color:white;
+    padding:5em;
     text-decoration:none;
-}
 
+}
