@@ -5,8 +5,10 @@ body{
     /*background-color: #0C969C;*/
     margin:0px;
     background-image: url(/images/background.jpg);
-    background-repeat: no-repeat;
+    background-repeat:repeat-y;
     background-position: center;
+
+    background-size:cover;
 }
 
 
